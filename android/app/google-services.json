@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389672390511",
+    "firebase_url": "https://iddaa-tahminleri-d0c74-default-rtdb.firebaseio.com",
+    "project_id": "iddaa-tahminleri-d0c74",
+    "storage_bucket": "iddaa-tahminleri-d0c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389672390511:android:8869dc879f292de886a29a",
+        "android_client_info": {
+          "package_name": "com.yuvarlakmasa.iddaa_tahminleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389672390511-dd0bj2kg8l0hl5b0o1rcamnivuq9t64t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUyeFs6q5oZLfQKGZ2pb_aaUdznddM9Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389672390511-dd0bj2kg8l0hl5b0o1rcamnivuq9t64t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
